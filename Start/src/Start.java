@@ -21,7 +21,8 @@ public class Start {
 			reversenumber = reversenumber + number % 10;
 			number = number/10;
 		
-		} /*For my understanding  Example if user entered 1234 
+		} /*
+		For my understanding  Example if user entered 1234 
 		1st loop
 		0 = 0 * 10              reversenumber NOW is 0
 		
