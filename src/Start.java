@@ -39,7 +39,7 @@ public class Start {
 			   
 			123 = 123/10            number is NOW 12
 			
-		starting to the see pattern, will continue will loops until	reversed number is 4321	
+		starting to see the pattern, will continue with loops until	reversed number is 4321	
 		 */
 		
 		System.out.println("Your number reversed is:" + reversenumber);
